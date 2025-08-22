@@ -20,10 +20,10 @@ st.set_page_config(
 )
 
 # ----------------- CUSTOM BACKGROUND -----------------
-
+"""
 <style>
 [data-testid="stAppViewContainer"] {
-     background-image: url("bg.jpg");
+    background-image: url("bg.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -40,7 +40,7 @@ st.set_page_config(
 .stButton>button {
     background-color: #FF9933;
     color: white;
-    border-radius: 10px;
+    # border-radius: 10px;
     height: 50px;
     font-size: 18px;
     font-weight: bold;
