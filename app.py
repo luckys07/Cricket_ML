@@ -23,7 +23,8 @@ st.set_page_config(
 page_bg = """
 <style>
 [data-testid="stAppViewContainer"] {
-    background-image: url("https://i.ibb.co/jv2FHRt/cricket-bg.jpg");
+     background-image: url("bg.jpg");
+
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
