@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 # ----------------- CUSTOM BACKGROUND -----------------
-"""
+page_bg = """
 <style>
 [data-testid="stAppViewContainer"] {
     background-image: url("https://i.ibb.co/dBf3c0f/cricket-stadium.jpg
