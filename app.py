@@ -20,11 +20,10 @@ st.set_page_config(
 )
 
 # ----------------- CUSTOM BACKGROUND -----------------
-page_bg = """
+
 <style>
 [data-testid="stAppViewContainer"] {
      background-image: url("bg.jpg");
-
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
