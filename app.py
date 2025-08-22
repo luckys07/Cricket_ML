@@ -23,7 +23,8 @@ st.set_page_config(
 """
 <style>
 [data-testid="stAppViewContainer"] {
-    background-image: url("bg.jpg");
+    background-image: url("https://i.ibb.co/dBf3c0f/cricket-stadium.jpg
+");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -40,7 +41,7 @@ st.set_page_config(
 .stButton>button {
     background-color: #FF9933;
     color: white;
-    # border-radius: 10px;
+    border-radius: 10px;
     height: 50px;
     font-size: 18px;
     font-weight: bold;
