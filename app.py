@@ -24,7 +24,7 @@ page_bg = """
 <style>
 [data-testid="stAppViewContainer"] {
     background-image: url("https://wallpapercave.com/wp/wp4059910.jpg
-";
+");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
